@@ -13,3 +13,5 @@ recomanables<img width="750" height="49" alt="Img01Reverse" src="https://github.
 3.Executar la següent ordre a la consola de la màquina atacant: nc -nvlp <<port introduït a l'arxiu.py>><img width="337" height="49" alt="1787186080" src="https://github.com/user-attachments/assets/6ac88ad4-d47e-4fdd-8265-a1b7bc7dbe6f" />
 
 4.Executar l'arxiu.exe i esperar a la connexió
+
+**EL CODI NO ESTÀ OFUSCAT, PER A GARANTIR L'EFECTIVITAT DE L'EINA, CAL OFUSCAR EL CODI O DESACTIVAR L'ANTIVIRUS AL DESCARGAR FINS QUE S'ACABI L'AUDITORIA**
