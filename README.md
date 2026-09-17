@@ -1,7 +1,7 @@
 # ReverseShell_RBS
 Reverse shell pensada per utilitzar-la amb netcat des de linux.
 
-1.Editar l'arxiu.py i col·locar una IPv4 local(192.168.x.x) i un port(del 0 al 65535) que no estigui ocupat en el moment de l'auditoria. #La ip ha da ser la de la màquina atacant 
+1.Editar l'arxiu.py i col·locar la IPv4 local de la màquina atacant(192.168.x.x) i un port(del 0 al 65535) que no estigui ocupat en el moment de l'auditoria. #La ip ha da ser la de la màquina atacant 
 
 <img width="207" height="43" alt="Captura de pantalla 2026-08-20 022846" src="https://github.com/user-attachments/assets/50258bf2-e48d-42d7-8499-ccd6bbe488ce" />
 
